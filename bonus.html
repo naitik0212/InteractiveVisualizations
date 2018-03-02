@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<meta charset='utf-8'>
+<html>
+<!--http://bl.ocks.org/jfreels/6816504-->
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+    <link rel='stylesheet' href='winnerstatsdistribution.css'>
+</head>
+<body>
+
+
+
+<div class="topnav">
+    <a class="active" href="index.html">Comparison of Winner/Losers</a>
+    <a href="Prominent.html">Most Prominent Features</a>
+    <a href="FrequencyofStat.html">Importance of each Feature</a>
+    <a href="bonus.html">Winners Stats Distribution (Bonus)</a>
+    <a href="Write%20Up.html">Write Up</a>
+</div>
+<div>
+<div>
+<h1 style=" margin-right: 50px; margin-left: 50px; text-align: center; background-color: white; color:black">Here is the distribution of stats in Australian Open tournament contributing to a match for a winner. Hover over the bubbles for more information!</h1>
+</div>
+
+    <div>
+        <script type='text/javascript' src='winnerstatsdistribution.js'></script>
+    </div>
+
+        <svg id="acs" style="align: center;width: 800px ; height: 25px"></svg>
+
+    <div>
+        <form style="margin-left: 1200px; margin-right: 20px">
+            <input class="MyButton" type="button" value="Frequency based stats" onclick="window.location.href='FrequencyofStat.html'" />
+        </form>
+    </div>
+</div>
+</body>
+
+</html>

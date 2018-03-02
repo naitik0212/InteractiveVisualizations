@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Australian Open Tournament Stats</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel='stylesheet' href='Write%20Up.css'>
+</head>
+<body>
+<div class="topnav">
+    <a class="active" href="index.html">Comparison of Winner/Losers</a>
+    <a href="Prominent.html">Most Prominent Features</a>
+    <a href="FrequencyofStat.html">Importance of each Feature</a>
+    <a href="bonus.html">Winners Stats Distribution (Bonus)</a>
+    <a href="Write%20Up.html">Write Up</a>
+</div>
+
+<form style="margin-left: 1200px; margin-right: 20px; margin-top:10px">
+    <input class="MyButton"  type="button" value="Data file"
+           onclick="window.location.href='https://drive.google.com/file/d/12eaK6ryjU6utCqJqW-8oOwwAjNNltNHp/view?usp=sharing'"/>
+</form>
+
+
+<div id="div1" style="text-align: center; background-color: white; margin-right: 100px; margin-left: 100px; color:black">
+    <h1>Australian Open Tournament Statistics<br></h1>
+    <h2 style=" margin-right: 50px; margin-left: 50px">Wanna be a Tennis Champ?</h2>
+    <h3 style=" margin-right: 100px; margin-left: 100px">Assignment 2 Write-Up</h3>
+    <br>
+    <p style="font-size:18px;font-weight: bold; text-align:justify">Data Analysis:<br>
+        The huge dataset having raw data of Australian Open Tournament with multiple missing values was provided. For filtering this data and to make it apt for further processing, Python script was implemented. The dataset consisted of 1387 rows and 37 columns in which about 7 columns and 200 rows had missing values. Some of the major features having missing values included winner, error, serve speeds, breaks and returns. The python script filled the values of the features such as the serve speeds, break, error, winner and returns using the fill forward technique. This technique uses the past player data to predict the current missing value. After applying the technique, most of the fields were filled with some appropriate data, while the remaining were filled using the standard average of all the players who played the tournament. Thus, all the features were cleaned and exported to the new file.
+        <br><br>Once the data was cleaned, regression across all the features was performed to find the most important features that contribute to the match win of any player. Interesting conclusions were found by using the winner data. Some of the features contributed positively and exceedingly well towards the final outcome of the match while some negatively impacted the match outcome. Based on this preliminary analysis, detailed patterns were found and data was visualized.
+    </p>
+    <p style="font-size:18px;font-weight: bold; text-align:justify">
+       Story: <br> Exploring the most important statistics and improving over it is the key to success in Tennis. This set of visualizations briefly focus on which features should any tennis player focus on to achieve success in his career. The home page of the website shows multiple visualization denoting the features that highly contribute to winning positively or negatively. Any player wanting to succeed is provided with a set of tips based on visualizations, that would increase his probability of winning when he next faces a tough competitor!<br>
+    </p>
+    <p style="font-size:18px;font-weight: bold; text-align:justify">
+        Interactive Visualizations <br>1. The Pie Chart denotes the average statistics contributing to the winner in the Australian Tournament and the bar graph denotes the corresponding
+        Winner-Loser data of the stat! Pie Chart is completely interactive and can trigger the bar graph! On Hover effect, color change of text on hover in pie chart.
+        <br>2. The heirarchical bar graph is clickable going in and out! It compares the two most prominent statistics (1st serve won v/s second serve won). Varied text seen while transitions. data based on timeframe is given by this graph! It also gives the best performing year amongst all the years and a detailed view of player lever og that feature!
+        <br>3. The important feature graph is interactive using the tooltip and an appended svg whith shows the details of each statistic
+        <br>4. The scatter plot is based on the average number of points scored using a particular feature.
+    </p>
+    <p style="font-size:18px;font-weight: bold; text-align: justify">
+        <br>The visualizations have been made using a consistent color  (category 20) , same font across all the pages , consistency in navigation bar,  aesthetic and good structural format.
+    </br>
+                        -Naitik Shah
+     - 1213166628</p>
+
+</div>
+
+
+</body>
+</html>

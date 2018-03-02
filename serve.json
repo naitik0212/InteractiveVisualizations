@@ -1,0 +1,236 @@
+{
+  "name": "servepoints",
+  "children": [
+    {
+      "name": "1stServeWon",
+      "children": [
+        {
+          "name": "2004",
+          "children": [
+
+            {"name": "Sebastien Grosjean (Tournament Max)", "size": 94},
+            {"name": "Roger Federer (Tournament Winner)", "size": 75},
+            {"name": "Marat Safin (Tournament Runner Up)", "size": 63},
+            {"name": "Average FirstServe% of Winners", "size": 76.14},
+            {"name": "Average Firstserve% of Losers", "size": 65.28}
+          ]
+        },
+        {
+          "name": "2005",
+          "children": [
+            {"name": "Marat Safin(Tournament Max)", "size": 93},
+            {"name": "Lleyton Hewitt (Tournament Winner)", "size": 70},
+            {"name": "Marat Safin (Tournament Runner Up)", "size": 73},
+            {"name": "Average FirstServe% of Winners", "size": 76.10},
+            {"name": "Average Firstserve% of Losers", "size": 63.22}
+          ]
+        },
+        {
+          "name": "2006",
+              "children": [
+                {"name": "Sebastien Grosjean(Tournament Max)", "size": 94},
+                {"name": "Roger Federer (Winner)", "size": 71},
+                {"name": "Marcos Baghdatis (Runner-Up)", "size": 71},
+                {"name": "Average FirstServe% of Winners", "size": 74.02},
+                {"name": "Average Firstserve% of Losers", "size": 63.63}
+          ]
+        },
+        {
+          "name": "2007",
+          "children": [
+                {"name": "Radek Stepanek (Tournament Max)", "size": 93},
+            {"name": "Roger Federer(Tournament Winner)", "size": 82},
+            {"name": "Fernando Gonzalez(Tournament Runner-Up)", "size": 69},
+            {"name": "Average FirstServe% of Winners", "size": 76.98},
+            {"name": "Average Firstserve% of Losers", "size": 64.71}
+          ]
+        },
+        {
+          "name": "2008",
+              "children": [
+                {"name": "Roger Federer (Tournament Max)", "size": 89},
+            {"name": "Novak Djokovic(Tournament Winner)", "size": 78},
+            {"name": "Jo-Wilfried Tsonga(Tournament Runner-Up)", "size": 71},
+            {"name": "Average FirstServe% of Winners", "size": 74.31},
+            {"name": "Average Firstserve% of Losers", "size": 62.76}
+          ]
+        },
+        {
+          "name": "2009",
+              "children": [
+                {"name": "David Ferrer (Tournament Max)", "size": 95},
+            {"name": "Roger Federer (Tournament Loser)", "size": 73},
+            {"name": "Rafael Nadal(Tournament Winner)", "size": 66},
+            {"name": "Average FirstServe% of Winners", "size": 76.61},
+            {"name": "Average Firstserve% of Losers",  "size": 63.56}
+          ]
+        },
+        {
+          "name": "2010",
+          "children": [
+                {"name": "Mikhail Youzhny(Tournament Max)", "size": 92}
+              ,
+            {"name": "Roger Federer (Tournament WInner)", "size": 72},
+            {"name": "Andy Murray (Tournament Runner-Up)", "size": 69},
+            {"name": "Average FirstServe% of Winners", "size": 75.59},
+            {"name": "Average Firstserve% of Losers", "size": 63.22}
+          ]
+        },
+        {
+          "name": "2011",
+          "children": [
+            {"name": "Robin Soderling (Tournament Max)", "size": 93},
+            {"name": "Novak Djokovic (Tournament Winner)", "size": 70},
+            {"name": "Andy Murray (Tournament Loser)", "size": 64},
+            {"name": "Average FirstServe% of Winners", "size": 76.64},
+            {"name": "Average Firstserve% of Losers", "size": 64.44}
+          ]
+        },
+        {
+          "name": "2012",
+          "children": [
+                {"name": "Marcos Baghdatis (Tournament Max)", "size": 92},
+              {"name": "Novak Djokovic (Tournament Winner)", "size": 68},
+              {"name": "Rafael Nadal (Tournament Loser)", "size": 66},
+            {"name": "Average FirstServe% of Winners", "size": 75.26},
+            {"name": "Average Firstserve% of Losers", "size": 63.23}
+          ]
+        },
+        {
+          "name": "2013",
+          "children": [
+                {"name": "Philipp Kohlschreiber (Tournament Max)", "size": 92},
+            {"name": "Novak Djokovic (Tournament Winner)", "size": 75},
+            {"name": "Andy Murray (Tournament Loser)", "size": 81},
+            {"name": "Average FirstServe% of Winners", "size": 76.87},
+            {"name": "Average Firstserve% of Losers", "size": 65.92}
+          ]
+        },
+        {
+          "name": "2014",
+          "children": [
+                {"name": "Leonardo Mayer (Tournament Max)", "size": 94},
+            {"name": "Stanislas Wawrinka (Tournament Winner)", "size": 87},
+            {"name": "Rafael Nadal (Tournament Loser)", "size": 60},
+            {"name": "Average FirstServe% of Winners", "size": 77.87},
+            {"name": "Average Firstserve% of Losers", "size": 66.83}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "2ndServeWon",
+      "children": [
+        {
+          "name": "2004",
+          "children": [
+                {"name": "Tim Henman (Tournament Max)", "size": 77},
+            {"name": "Roger Federer (Tourament Winner)", "size": 60},
+            {"name": "Marat Safin (Tournament Runner Up)", "size": 47},
+            {"name": "Average SecondServe% of Winners", "size": 55.88},
+            {"name": "Average SecondServe% of Losers", "size": 44.83}
+          ]
+        },
+        {
+          "name": "2005",
+          "children": [
+                {"name": "Mikhail Youzhny (Tournament Max)", "size": 82},
+            {"name": "Lleyton Hewitt (Tournament Runner Up)", "size": 52},
+            {"name": "Marat Safin (Tournament Winner)", "size": 57},
+            {"name": "Average SecondServe% of Winners", "size": 57.60},
+            {"name": "Average SecondServe% of Losers", "size": 47.07}
+          ]
+        },
+        {
+          "name": "2006",
+          "children": [
+                {"name": "Roger Federer (Tournament Max)", "size": 87},
+            {"name": "Roger Federer (Winner)", "size": 51},
+            {"name": "Marcos Baghdatis (Runner-Up)", "size": 37},
+            {"name": "Average SecondServe% of Winners", "size": 55.22},
+            {"name": "Average SecondServe% of Losers", "size": 43.97}
+          ]
+        },
+        {
+          "name": "2007",
+          "children": [
+                {"name": "Roger Federer (Tournament Max)", "size": 78},
+            {"name": "Roger Federer(Tournament Winner)", "size": 78},
+            {"name": "Fernando Gonzalez(Tournament Runner-Up)", "size": 46},
+            {"name": "Average SecondServe% of Winners", "size": 55.12},
+            {"name": "Average SecondServe% of Losers", "size": 42.6}
+          ]
+        },
+        {
+          "name": "2008",
+          "children": [
+                {"name": "Richard Gasquet (Tournament Max)", "size": 89},
+            {"name": "Novak Djokovic(Tournament Winner)", "size": 63},
+            {"name": "Jo-Wilfried Tsonga(Tournament Runner-Up)", "size": 48},
+            {"name": "Average SecondServe% of Winners", "size": 55.83},
+            {"name": "Average SecondServe% of Losers", "size": 44.72}
+          ]
+        },
+        {
+          "name": "2009",
+          "children": [
+                {"name": "Tommy Robredo (Tournament Max)", "size": 90},
+            {"name": "Roger Federer (Tournament Loser)", "size": 45},
+            {"name": "Rafael Nadal (Tournament Winner)", "size": 48},
+            {"name": "Average SecondServe% of Winners", "size": 56.04},
+            {"name": "Average SecondServe% of Losers",  "size": 44.12}
+          ]
+        },
+        {
+          "name": "2010",
+          "children": [
+                {"name": "Lleyton Hewitt (Tournament Max)", "size": 79},
+            {"name": "Roger Federer (Tournament Winner)", "size": 61},
+            {"name": "Andy Murray (Tournament Runner-Up)", "size": 51},
+            {"name": "Average SecondServe% of Winners", "size": 55.19},
+            {"name": "Average SecondServe% of Losers", "size": 43.96}
+          ]
+        },
+        {
+          "name": "2011",
+          "children": [
+                {"name": "Eduardo Schwank (Tournament Max)", "size": 79},
+            {"name": "Novak Djokovic (Tournament Winner)", "size": 60},
+            {"name": "Andy Murray (Tournament Loser)", "size": 31},
+            {"name": "Average SecondServe% of Winners", "size": 55.60},
+            {"name": "Average SecondServe% of Losers", "size": 45.27}
+          ]
+        },
+        {
+          "name": "2012",
+          "children": [
+                {"name": "Richard Gasquet (Tournament Max)", "size": 74},
+            {"name": "Novak Djokovic (Tournament Winner)", "size": 63},
+            {"name": "Rafael Nadal (Tournament Loser)", "size": 45},
+            {"name": "Average SecondServe% of Winners", "size": 55.06},
+            {"name": "Average SecondServe% of Losers", "size": 43.16}
+          ]
+        },
+        {
+          "name": "2013",
+          "children": [
+                {"name": "Novak Djokovic (Tournament Max)", "size": 87},
+            {"name": "Novak Djokovic (Tournament Winner)", "size": 66},
+            {"name": "Andy Murray (Tournament Loser)", "size": 46},
+            {"name": "Average SecondServe% of Winners", "size": 57.13},
+            {"name": "Average SecomdServe% of Losers", "size": 45.32}
+          ]
+        },
+        {
+          "name": "2014",
+          "children": [
+            {"name": "Martin Klizan (Tournament Max)", "size": 81},
+            {"name": "Stanislas Wawrinka (Tournament Winner)", "size": 51},
+            {"name": "Rafael Nadal (Loser)", "size": 42},
+            {"name": "Average FirstServe% of Winners", "size": 56.66},
+            {"name": "Average Firstserve% of Losers", "size": 44.88}
+          ]
+        }
+      ]
+    }
+]}
